@@ -1,5 +1,5 @@
 # Py3Direct
-Redirect tools from Python 2 docs to Python 3 docs
+Redirection tools from Python 2 docs to Python 3 docs
 
 ###Bookmarklet
 Create a new bookmark and paste the code into the "Location" or "URL" field.
