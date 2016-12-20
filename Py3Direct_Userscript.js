@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Py3Direct
+// @name:en      Py3Direct
 // @namespace    http://docs.python.org
 // @description  Replaces text in the url to automatically redirect from Py 2 docs to Py 3
 // @version      0.2
