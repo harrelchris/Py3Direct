@@ -7,6 +7,11 @@ javascript:(
                 'url_string': 'docs.python.org', 
                 'from': 'docs.python.org/2/', 
                 'to': 'docs.python.org/3/'
+                },
+            python_v = { 
+                'url_string': 'docs.python.org', 
+                'from': 'docs.python.org/2.7/', 
+                'to': 'docs.python.org/3.5/'
                 }, 
             youtube = { 
                 'url_string': 'youtube.com', 
