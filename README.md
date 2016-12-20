@@ -7,7 +7,7 @@ If you find yourself on Python 2 documentation, click the bookmark and you will
 be redirected to the same page in the Python 3 documentation.
 
 ###Extensible Bookmarklet
-Py3Direct use is preloaded, as well as a convenient way to bypass Youtube sign-in for mature content.
+Similar to the bookmarlet above, Py3Direct use is preloaded, as well as a convenient way to bypass Youtube sign-in for mature content.
 You can easily add more redirection rules as needed.
 
 ###Userscript
