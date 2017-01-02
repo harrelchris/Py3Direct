@@ -3,7 +3,7 @@
 // @name:en      Py3Direct
 // @namespace    https://greasyfork.org/en/users/88414-chris-harrel
 // @description  Replaces text in the url to automatically redirect from Py 2 docs to Py 3
-// @version      0.2
+// @version      0.3
 // @author       Chris Harrel // harrechris@gmail.com // github.com/harrelchris
 // @include      *docs.python.org/*
 // ==/UserScript==
